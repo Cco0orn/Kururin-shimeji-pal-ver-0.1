@@ -3,7 +3,7 @@
 Download shimeju from here→http://kilkakon.com/shimeji<br>
 You can find detailed tutorials there, also FAQs on their official youtube channel.
 
-1. Put "KururinShimeji" floder to \shimejiee\img\
+1. Put "KururinShimeji" folder to \shimejiee\img\
 </p><img width="408" height="200" alt="0" src="https://github.com/user-attachments/assets/87b7e8eb-b572-4ae7-bb72-8db2bc003028"/></p>
 
 2. Open "Shimeji-ee".
